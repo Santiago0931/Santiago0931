@@ -1,7 +1,9 @@
 ## 👋 Hola! Te doy la bienvenida a mi espacio en GitHub.
 
 🎓 Licenciado en Administración
+
 📊 Aprendiendo análisis de datos
+
 💼 Interesado en aplicar herramientas como Power BI, SQL y Python al mundo de los negocios.
 
 En este espacio comparto proyectos, dashboards y reportes desarrollados durante mi proceso de aprendizaje.
